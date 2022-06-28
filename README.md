@@ -1,6 +1,6 @@
 # learn-smart-contract
 
-What I learned:
+What I've learned:
 
 - Setting up a Node project
 - Developing smart contracts
