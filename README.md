@@ -1,5 +1,13 @@
 # learn-smart-contract
 
+Languages and Tools:
+- Solidity
+- Javascript
+- Truffle
+- Chai
+- Ganache CLI
+- Openzeppelin Contracts
+
 What I've learned:
 
 - Setting up a Node project
