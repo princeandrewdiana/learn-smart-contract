@@ -7,6 +7,7 @@ Languages and Tools:
 - Chai
 - Ganache CLI
 - Openzeppelin Contracts
+- OpenZeppelin Test Helpers
 
 What I've learned:
 
